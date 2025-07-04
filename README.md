@@ -1,2 +1,0 @@
-# Flashcard
-Flashcard de programação
